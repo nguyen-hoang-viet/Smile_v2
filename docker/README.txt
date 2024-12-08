@@ -1,0 +1,1 @@
+docker compose -f mysql.yml -p [project_name] up -d
